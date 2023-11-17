@@ -4,6 +4,15 @@
 
 Welcome to the world of SmartWaste - an innovative program designed to simplify waste sorting processes and educate users on eco-friendly habits! This document provides information on how to use the program, its features, and benefits.
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="src/1.png" width="250"/>
+    <img src="src/2.png" width="250"/>
+    <img src="src/3.png" width="250"/>
+</div>
+
+
 ## Table of Contents
 
 - [1. What is SmartWaste](#1-what-is-smartwaste)
